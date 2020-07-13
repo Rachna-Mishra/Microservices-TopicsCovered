@@ -1,6 +1,7 @@
 https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
 SpringBootMicroservice Level 1
         -- Communication between multiple services and Service Discovery
+        -- Rest Template and Web Client
         -- Eureka Server
         -- Creating Eureka Clients
         -- Client Side Load Balancing
@@ -21,6 +22,7 @@ SpringBootMicroservice Level 3
         -- Using Environment Object
         -- Spring Cloud Config Server
         -- Setting up Spring Cloud Clients
+        
 Chapter 1
         -- Monolithic Architecture
         -- Microservice Architecture
