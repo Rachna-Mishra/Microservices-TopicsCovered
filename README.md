@@ -16,6 +16,11 @@ Item : Prefer Lists to Arrays
      Major difference in arrays and generic types
      why to prefer use lists over arrays.
      Why generic array creation is illegal.
+ 
+ Item : Favor Generic Types
+     
+     Why we need to prefer generic types
+     How to generify old non-parameterized version without harming clients.
 
 ------------------------------------
 
